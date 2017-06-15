@@ -114,6 +114,11 @@ websites:
       img: codeship.png
       tfa: No
 
+    - name: CodeTrace
+      url: https://codetrace.io/
+      twitter: codetraceio
+      tfa: No
+      
     - name: Compose.io
       url: https://www.compose.io/
       img: composeio.png
